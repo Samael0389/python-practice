@@ -1,0 +1,5 @@
+name = input ("Type your name: ")
+age = input ("Type your age: ")
+city = input ("Type your city: ")
+language = input ("Type your language: ")
+print (f"My name is {name}, i'm {age} and I live in {city}.I'm speaking {language}.")
